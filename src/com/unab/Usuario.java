@@ -7,7 +7,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
 /**
- * @author Luis Zenteno, Barbara Carvajal
+ * @author Luis Zenteno, Barbara Carvajal, Maria Fernanda
  * @version 1.2
  * 
  * Esta sub clase heredada de Persona utilizara los siguientes parametros para cada metodo:
